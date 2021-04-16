@@ -14,7 +14,7 @@ class Device:
 
         d = Device()
         d.ipAddress = "10.0.0.1"
-        d.port = "8"
+        d.port = "80"
 
         devices.append(d)
 
