@@ -7,7 +7,7 @@ class Device:
         devices = []
 
         d = Device()
-        d.ipAddress = "192.168.1.5"
+        d.ipAddress = "192.168.1.50"
         d.port = "21"
 
         devices.append(d)
